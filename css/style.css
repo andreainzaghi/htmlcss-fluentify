@@ -1,0 +1,149 @@
+ *{
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+nav li a{
+text-decoration: none;
+display: inline-block;
+padding:10px;
+color: #fff;
+font-size: 11PX;
+}
+.logo, nav {
+  vertical-align: middle;
+}
+.logo, nav, nav li{
+
+  display: inline-block;
+}
+h1{
+  font-family: 'Potta One', cursive;
+   margin-left: 50px;
+   font-size: 35px;
+  margin-right: 95px;
+  color: #fff;
+}
+h2{
+  color:#fff;
+  position: relative;
+  z-index: 5;
+  bottom:340px;
+  left: 60px;
+  font-size: 45px;
+}
+.header{
+  margin-top: 15px;
+    background-color: #191970;
+}
+.nav-bar{
+  margin-left: 50px;
+}
+.div-tutor{
+  padding-left: 100px;
+}
+.login{
+  border: 1.5px solid black;
+  border-radius: 10px;
+}
+.strut-piano{
+  background-color: lime;
+  border-radius: 6px;
+  color: black;
+}
+.image-sf{
+  background-image: url(../img/background-header.png);
+  width: 100%;
+  height: 480px;
+    background-size: contain;
+    position: relative;
+    left: 120px;
+    top: 80px;
+
+
+}
+.pul{
+  position: relative;
+  left: 120px;
+  bottom: 315px;
+  padding: 10px;
+  list-style: none;
+  color: black;
+  text-decoration: none;
+}
+.grey{
+  height: 100px;
+  width: 100%;
+  background-color: #D3D3D3;
+  padding-top: 35px;
+
+}
+ .grey-1{
+   padding-left: 370px;
+   line-height: 30px;
+   font-size: 22px;
+ }
+ .ppp{
+   padding-left:300px;
+ }
+/* gggggggggg */
+
+.col-1{
+float: left;
+background-color:#fff;
+width: 30%;
+height: 290px;
+display: inline-block;
+margin-top: 0.5%;
+margin-left: 60px;
+
+}
+
+/* .testo-1col1{
+  position: absolute;
+  top: 20px; */
+
+.img-1col{
+  background-image: url(../img/computer.svg);
+
+
+}
+.img-2col{
+  background-image: url(../img/doc.svg);
+
+}
+.img-3col{
+  background-image: url(../img/profile.svg);
+}
+.img-col{
+  width: 100%;
+  height: 260px;
+  position: relative;
+  border-radius: 30px;
+  background-size: contain;
+  padding: 0px 20px 0px 20px;
+}
+
+.col-2{
+  float: left;
+  background-color: #fff;
+  width: 30%;
+height: 290px;
+display: inline-block;
+margin: 0.5%;
+margin-top: 0.5%;
+
+}
+.col-3{
+float: left;
+background-color: #fff;
+width: 20%;
+height: 290px;
+display: inline-block;
+margin-top: 0.5%;
+border-radius: 10px;
+}
+.colonne-3{
+
+}
