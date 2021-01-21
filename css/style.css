@@ -29,15 +29,16 @@ h2{
   color:#fff;
   position: relative;
   z-index: 5;
-  bottom:340px;
-  left: 60px;
+  bottom:200px;
+  left: 130px;
   font-size: 45px;
 }
 h4{
   color:green;
     text-shadow: 0 0 1px black;
-  font-size: 25px;
+  font-size: 15px;
   text-align:center;
+   position: relative;
 
 }
 .header{
@@ -48,7 +49,7 @@ h4{
   margin-left: 50px;
 }
 .div-tutor{
-  padding-left: 400px;
+  padding-left: 100px;
 
 }
 .login{
@@ -61,21 +62,19 @@ h4{
   color: black;
 }
 .image-sf{
-  background-image: url(../img/background-header.png);
-  width: 100%;
-  height: 480px;
+
     background-size: contain;
     position: relative;
-    left: 120px;
-    top: 80px;
+    left: 420px;
+    top: 125px;
   background-repeat: no-repeat;
 
 
 }
 .pul{
   position: relative;
-  left: 120px;
-  bottom: 315px;
+  left: 110px;
+  bottom: 170px;
   padding: 10px;
   list-style: none;
   color: black;
@@ -189,10 +188,12 @@ p{
 }
 
 .c0-col{
+margin-top: 50px;
+  position: relative;
+  bottom: 50px;
+  }
 
-  margin-bottom: 50px;
 
-}
 
 
 
@@ -217,6 +218,7 @@ h5{
 .benzo{
   padding: 0px 30px 0px 30px;
   text-align: left;
+  font-size: 22px;
 }
 
 .linkazzo{
@@ -236,6 +238,43 @@ h6{
   padding-top: 10px;
   display: inline-block;
 }
-nav ul li{
-  padding: 0px 10px 0px 10px;
+nav ul li {
+  paddng: 0px 10px 0px 10px;
+}
+.div-tutor1{
+  padding-left: 400px;
+
+}
+.img-1{
+ padding-bottom: 50px;
+}
+
+.img-2{
+ padding-bottom: 50px;
+}
+.img-3{
+ padding-bottom: 50px;
+}
+.h4-11{
+  padding-bottom: 20px;
+}
+.h4-12{
+  padding-bottom: 30px;
+}
+.h4-14{
+  padding-bottom: 20px;
+}
+.p.pupu{
+  padding-bottom: 30px;
+}
+.p.pepe{
+  padding-bottom: 30px;
+}
+.position-rel{
+  position: relative;
+  bottom: 40px;
+}
+.position-rel1{
+  position: relative;
+  bottom: 50px;
 }
