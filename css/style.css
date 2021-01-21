@@ -48,7 +48,8 @@ h4{
   margin-left: 50px;
 }
 .div-tutor{
-  padding-left: 100px;
+  padding-left: 400px;
+
 }
 .login{
   border: 1.5px solid black;
@@ -235,9 +236,6 @@ h6{
   padding-top: 10px;
   display: inline-block;
 }
-.modulo-di-selezione{
-    display: inline-block;
-    padding-left: 450px;
-    width: 100px;
-    height: 30px;
+nav ul li{
+  padding: 0px 10px 0px 10px;
 }
