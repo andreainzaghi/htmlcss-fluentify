@@ -87,7 +87,7 @@ h4{
 
 }
  .grey-1{
-   
+
    line-height: 30px;
    font-size: 22px;
    text-align:center
@@ -163,4 +163,32 @@ padding-left: 80px;
 }
 p{
   text-align:center;
+}
+.c1-coll{
+  height: 30%;
+  width: 300px;
+  padding: 50px;
+  display: inline-block;
+}
+
+.c2-coll{
+  height: 30%;
+  width: 300px;
+  padding: 50px;
+  display: inline-block;
+}
+
+
+.c3-coll{
+  height: 30%;
+  width: 300px;
+  padding: 50px;
+  display: inline-block;
+}
+
+.c0-coll{
+margin-left: 45px;
+}
+.img{
+  
 }
