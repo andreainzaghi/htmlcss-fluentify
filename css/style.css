@@ -250,3 +250,8 @@ top: 4px;
   position: relative;
   bottom: 50px;
 }
+.hr{
+  width: 100px;
+  position: relative;
+  left: 60px;
+}
