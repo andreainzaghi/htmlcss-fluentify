@@ -58,7 +58,7 @@ h4{
 
 }
 .header{
-
+    overflow: hidden;
     background-color: #191970;
 }
 .nav-bar{
@@ -73,7 +73,7 @@ font-size: 11px;
 color:#fff;
 }
 .login{
-  border: 1.5px solid black;
+  border: 1.5px solid #fff;
   border-radius: 10px;
 }
 .strut-piano{
@@ -93,11 +93,11 @@ color:#fff;
 }
 .image-sf{
 
-    background-size: contain;
+
     position: relative;
     left: 420px;
     top: 125px;
-  background-repeat: no-repeat;
+
 
 
 }
