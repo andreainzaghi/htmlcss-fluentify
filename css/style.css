@@ -3,7 +3,6 @@
   padding: 0;
   box-sizing: 0;
 }
-
 nav li a{
 text-decoration: none;
 display: inline-block;
@@ -11,28 +10,23 @@ padding:10px;
 color: #fff;
 font-size: 11PX;
 }
-
 nav li a.btn:hover{
 background-color: lime;
 color:black;
 border-radius: 10px;
 border-bottom: 1px solid #fff;
 border-top:  1px solid #fff;
-
 }
 .logo, nav {
   vertical-align: middle;
 }
 .logo, nav, nav li{
-
   display: inline-block;
 }
 .loggo{
-
    margin-left: 50px;
    font-size: 35px;
   margin-right: 95px;
-
 }
 nav{
   margin-top: 20px;
@@ -40,7 +34,6 @@ nav{
 .logo{
   margin-top: 20px;
 }
-
 h2{
   color:#fff;
   position: relative;
@@ -55,7 +48,6 @@ h4{
   font-size: 15px;
   text-align:center;
    position: relative;
-
 }
 .header{
     overflow: hidden;
@@ -66,7 +58,6 @@ h4{
 }
 .div-tutor{
   padding-left: 100px;
-
 }
 .div-tutor{
 font-size: 11px;
@@ -81,7 +72,6 @@ color:#fff;
   border-radius: 6px;
   color: black;
 }
-
 .strut-piano-1{
   background-color: lime;
   border-radius: 6px;
@@ -92,14 +82,9 @@ color:#fff;
   right: 40px;
 }
 .image-sf{
-
-
-    position: relative;
-    left: 420px;
-    top: 125px;
-
-
-
+  position: relative;
+  left: 420px;
+  top: 125px;
 }
 .pul{
   position: relative;
@@ -115,17 +100,12 @@ color:#fff;
   width: 100%;
   background-color: #D3D3D3;
   padding-top: 35px;
-
 }
  .grey-1{
-
    line-height: 30px;
    font-size: 22px;
    text-align:center
  }
-
-/* gggggggggg */
-
 .col-1{
 float: left;
 background-color:#fff;
@@ -134,29 +114,21 @@ height: 290px;
 display: inline-block;
 margin-top: 0.5%;
 margin-left: 60px;
-
 }
-
-
 .img-col{
   width: 100%;
   height: 260px;
-
   border-radius: 5px;
   background-size: cover;
-
-
 }
-
 .col-2{
-  float: left;
-  background-color: #fff;
-  width: 30%;
+float: left;
+background-color: #fff;
+width: 30%;
 height: 290px;
 display: inline-block;
 margin: 0.5%;
 margin-top: 0.5%;
-
 }
 .col-3{
 float: left;
@@ -186,37 +158,27 @@ p{
   padding: 50px;
   display: inline-block;
 }
-
-
 .c3-coll{
   height: 300px;
   width: 20%;
   padding: 50px;
   display: inline-block;
 }
-
 .c0-col{
 margin-top: 50px;
-  position: relative;
-  bottom: 50px;
-  }
-
-
-
-
-
+position: relative;
+bottom: 50px;
+}
 .img-mountan{
 width: 40%;
 display: inline-block;
 margin-left: 60px;
 margin-top: 30px;
 }
-
 .franco{
   display: inline-block;
   float: right;
   width: 50%;
-
 }
 h5{
   font-size: 35px;
@@ -228,7 +190,6 @@ h5{
   text-align: left;
   font-size: 22px;
 }
-
 .linkazzo{
     padding: 0px 30px 0px 30px;
 }
@@ -251,16 +212,13 @@ h6{
 }
 .div-tutor1{
   padding-left: 400px;
-
   font-size: 15px;
   color:black;
-  }
 }
 .img-1{
 position: relative;
 bottom: 40px;
 }
-
 .img-2{
  padding-bottom: 50px;
 }
