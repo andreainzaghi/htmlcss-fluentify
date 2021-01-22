@@ -11,6 +11,15 @@ padding:10px;
 color: #fff;
 font-size: 11PX;
 }
+
+nav li a.btn:hover{
+background-color: lime;
+color:black;
+border-radius: 10px;
+border-bottom: 1px solid #fff;
+border-top:  1px solid #fff;
+
+}
 .logo, nav {
   vertical-align: middle;
 }
@@ -18,13 +27,20 @@ font-size: 11PX;
 
   display: inline-block;
 }
-h1{
-  font-family: 'Potta One', cursive;
+.loggo{
+
    margin-left: 50px;
    font-size: 35px;
   margin-right: 95px;
-  color: #fff;
+
 }
+nav{
+  margin-top: 20px;
+}
+.logo{
+  margin-top: 20px;
+}
+
 h2{
   color:#fff;
   position: relative;
@@ -42,7 +58,7 @@ h4{
 
 }
 .header{
-  margin-top: 15px;
+
     background-color: #191970;
 }
 .nav-bar{
@@ -64,6 +80,16 @@ color:#fff;
   background-color: lime;
   border-radius: 6px;
   color: black;
+}
+
+.strut-piano-1{
+  background-color: lime;
+  border-radius: 6px;
+  color: black;
+  position: fixed;
+  z-index: 33;
+  top:89.25%;
+  right: 40px;
 }
 .image-sf{
 
